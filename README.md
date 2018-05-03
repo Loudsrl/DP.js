@@ -6,7 +6,7 @@ The fastest blasphemy-driven way to test things
 Just link the DP.js (2KB) or the DP.min.js (747b) into your html file:
 
 ```html
-<script src="path/to/file/DP.min.js"></script>
+<script src="https://cdn.rawgit.com/Loudsrl/DP.js/master/DP.min.js"></script>
 ```
 
 ## Usage
